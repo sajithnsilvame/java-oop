@@ -1,0 +1,2 @@
+Hello Java
+Java is a high-level language
